@@ -1,0 +1,76 @@
+.wrapper-auth {
+  padding-top: 64px;
+  background-color: #fcfdfe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-auth .content-auth {
+  width: 440px;
+  background: #ffffff;
+  box-shadow: 0px 0px 40px #eaf1f5;
+  border-radius: 24px;
+  padding: 24px;
+  margin: 24px 0;
+}
+
+.title-auth {
+  margin-bottom: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: #000000;
+}
+
+.or-auth {
+  color: #b8b8b8;
+  margin: 16px 0;
+  gap: 12px;
+}
+
+.or-auth hr {
+  display: inline-block;
+  border: 1px solid #b8b8b8;
+  width: 100%;
+}
+
+.btn-google {
+  background-color: #e75f5f;
+  border-radius: 4px;
+}
+
+.btn-facebook {
+  background-color: #6e85da;
+  border-radius: 4px;
+}
+
+.more-auth {
+  margin: 12px 0;
+}
+
+.more-auth span {
+  color: #6a983c;
+  font-weight: 500;
+  word-spacing: 1px;
+}
+
+.link-forgot-pass {
+  color: #6a983c;
+}
+
+.link-forgot-pass:hover {
+  color: #6a983c;
+}
+
+.form-forgot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.content-forgot {
+  width: 400px;
+}

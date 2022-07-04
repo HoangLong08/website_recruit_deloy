@@ -1,0 +1,29 @@
+.btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 24px;
+  height: 40px;
+  width: 140px;
+  background-color: #6a983c;
+  color: white;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  transition: all 0.5s;
+}
+
+.btn-no-background {
+  background-color: white;
+  color: #6a983c;
+  border: 1.5px solid #6a983c;
+}
+
+.btn-full-width {
+  width: 100%;
+}
+
+.btn-no-background-hover:hover {
+  background-color: #6a983c;
+  color: white;
+}

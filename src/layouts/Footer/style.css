@@ -1,0 +1,16 @@
+.wrapper-footer{
+	background-color: #F9F8FF;
+	padding: 24px 0;
+}
+
+.footer-logo{
+	font-weight: bold;
+	font-size: 45px;
+	color: #6A983C;
+}
+
+.footer-title{
+	color: #000;
+	font-weight: 700;
+	margin: 20px 0 12px;
+}

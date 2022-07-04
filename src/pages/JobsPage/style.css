@@ -1,0 +1,65 @@
+.wrapper-jobs {
+  padding-top: 84px;
+}
+
+.wrapper-filter-container {
+  position: sticky;
+  top: 84px;
+  margin-bottom: 24px;
+}
+
+.filter-box {
+  background-color: white;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  padding: 8px;
+}
+
+.filter-container {
+  display: flex;
+  align-items: center;
+}
+
+.filter-body {
+  font-size: 14px;
+}
+
+.wrapper-jobs-search {
+  margin-bottom: 12px;
+}
+
+.wrapper-jobs-pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.title-filter-box {
+  margin-bottom: 12px;
+}
+
+.filter-body .ant-checkbox-wrapper {
+  display: flex;
+}
+
+.wrapper-jobs-no-result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 4px;
+  height: 82vh;
+  margin-bottom: 12px;
+}
+
+.wrapper-banner-container {
+  position: sticky;
+  top: 84px;
+  margin-bottom: 24px;
+}
+
+.wrapper-banner-container img {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,12 @@
+.wrapper-select-option select {
+  display: inline-block;
+  width: 100%;
+  height: 44px;
+  border: 1.5px solid #bdbac4;
+  border-radius: 22px;
+  padding: 10px 12px;
+
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+}

@@ -1,0 +1,37 @@
+.wrapper-post {
+  padding: 84px 0 20px;
+  background-color: white;
+}
+
+.wrapper-item-post {
+  margin-bottom: 24px;
+}
+
+.item-name-post {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.item-time-post {
+  color: black;
+  margin-bottom: 12px;
+}
+
+.item-image-post {
+  width: 100%;
+  height: 50vh;
+  -o-object-fit: cover;
+  object-fit: cover;
+  box-shadow: 0 1px 5px rgb(0 0 0 / 50%);
+}
+
+.item-des-post {
+  margin: 12px 0;
+  font-size: 20px;
+}
+
+.item-border-post {
+  height: 1px;
+  width: 100%;
+  border: 1px rgb(219, 219, 219) solid;
+}
