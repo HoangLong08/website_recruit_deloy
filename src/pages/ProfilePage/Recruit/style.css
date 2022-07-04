@@ -1,0 +1,20 @@
+.content-inner-client-head-action {
+  display: flex;
+  justify-content: flex-end;
+  width: 550px;
+  gap: 16px;
+}
+
+.box-manage-profile {
+  background-color: white;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.dropzone-company {
+  text-align: center;
+  padding: 20px;
+  border: 3px dashed #eeeeee;
+  background-color: #fafafa;
+  color: #bdbdbd;
+}

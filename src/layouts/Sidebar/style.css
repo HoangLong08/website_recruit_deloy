@@ -1,0 +1,39 @@
+.wrapper-sidebar {
+  display: flex;
+  background: #f5f6fa;
+}
+
+.wrapper-menu {
+  margin-top: 64px;
+  height: 100%;
+  width: 240px;
+  background: #ffffff;
+  box-shadow: 0px 8px 4px rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
+  position: fixed;
+  top: 0;
+  z-index: 9;
+}
+
+.item-menu-sidebar {
+  padding: 24px;
+  display: block;
+}
+
+.menu-item-link-active {
+  background-color: #6a983c;
+  color: white;
+}
+
+.menu-item-link-active:hover {
+  color: white;
+}
+
+.content-layout {
+  width: calc(100% - 240px);
+  min-height: calc(100vh - 64px - 48px);
+  margin-top: 88px;
+  margin-bottom: 24px;
+  margin-left: 264px;
+  margin-right: 24px;
+}
